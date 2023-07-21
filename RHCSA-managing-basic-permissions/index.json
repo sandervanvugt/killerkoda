@@ -33,6 +33,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "rocky:8.4"
+    "imageid": "ubuntu"
   }
 }
